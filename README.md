@@ -1,4 +1,4 @@
-# 🚀 Crowdfunding DApp (Sepolia Testnet)
+# 🚀 Crowdfunding DApp
 
 Aplikasi Crowdfunding berbasis Blockchain ini dirancang sebagai proyek pembelajaran (educational project) untuk pemula yang ingin memahami konsep dasar Smart Contract dan interaksi aplikasi Web3. Proyek ini menggunakan teknologi yang sangat ramah pemula untuk memudahkan pemahaman alur kerja dApp.
 
